@@ -19,7 +19,6 @@ Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days
 | [QuitApp](https://apps.apple.com/app/id6799478753) | Quit smoking for good | Expo, React Native, Supabase |
 | [why?](https://apps.apple.com/app/id6802287404) | Stops you before you open a distracting app and asks why | SwiftUI, Screen Time API |
 | [aaaa.fyi](https://aaaa.fyi) | Directory of AI agent skills, MCP servers and plugins | Next.js, programmatic SEO |
-| [azantime.com](https://azantime.com) | Accurate prayer times worldwide | Next.js |
 
 **Coming soon:** [Biri](https://biri.social), anonymous compliment polls for university students · Dua Defteri, a daily prayer journal for iOS.
 
@@ -29,7 +28,7 @@ Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days
 
 | | What | Stack |
 |---|---|---|
-| [beypazarimadensuyu.com.tr](https://beypazarimadensuyu.com.tr) | Brand site for Beypazarı Natural Mineral Water, with a 3D bottle | Next.js, Three.js |
+| [regulaw.com.tr](https://regulaw.com.tr) | Website and content admin panel for an Ankara law firm | Next.js, Supabase |
 
 #### How I work
 
