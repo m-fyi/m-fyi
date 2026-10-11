@@ -27,10 +27,6 @@ I build apps with AI agents and ship them in days.
 - **[Biri](https://biri.social)**: anonymous compliment polls for university students. In TestFlight.
 - **Dua Defteri**: a daily prayer journal. Write what's on your mind, get it back as a prayer.
 
-#### Client work
-
-- **[Regulaw](https://regulaw.com.tr)**: website and content admin panel for an Ankara law firm.
-
 #### Earlier
 
 - **randevu.bio**: one booking link for freelancers and small businesses, with SMS reminders. Closed.
