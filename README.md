@@ -1,6 +1,6 @@
 ### Hi, I'm Melih.
 
-Co-founder of Comma Labs, in Türkiye. I build with AI agents, so an idea becomes a live app in days.
+I build apps with AI agents and ship them in days.
 
 **Have a project?** [Book a 15-minute call →](https://cal.com/comma-labs/15min)
 
