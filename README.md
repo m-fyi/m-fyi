@@ -4,7 +4,7 @@ Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days
 
 **Have a project?** [Book a 15-minute call →](https://cal.com/comma-labs/15min)
 
-| Open to | |
+| Open to | Details |
 |---|---|
 | New projects | Mobile apps, web apps, AI features |
 | AI tutor and AI training | Software engineering, Turkish |
