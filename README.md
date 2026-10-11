@@ -2,7 +2,9 @@
 
 Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days. I build with AI coding agents every day, and I review every line they write.
 
-**Open to:** AI tutor and AI training contracts (software engineering, Turkish) · forward deployed and product engineering · remote.
+**Open to:** new projects · AI tutor and AI training contracts (software engineering, Turkish) · forward deployed and product engineering · remote.
+
+**Have a project?** [Book a 15-minute call →](https://cal.com/comma-labs/15min)
 
 #### Open source
 
