@@ -15,9 +15,17 @@ Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days
 
 | | What | Stack |
 |---|---|---|
+| [Huzur](https://huzur.app) · [App Store](https://apps.apple.com/app/id6759974970) · [Google Play](https://play.google.com/store/apps/details?id=com.labs.huzur) | Prayer times, Quran and duas, with an AI spiritual assistant | Expo, React Native, Supabase |
 | [biri.social](https://biri.social) | Anonymous compliment polls for university students | Expo, React Native, Supabase |
 | [aaaa.fyi](https://aaaa.fyi) | Directory of AI agent skills, MCP servers and plugins | Next.js, programmatic SEO |
 | [azantime.com](https://azantime.com) | Accurate prayer times worldwide | Next.js |
+| randevu.bio *(discontinued)* | One booking link for freelancers and small businesses, with SMS reminders | Expo, Supabase |
+
+#### Client work
+
+| | What | Stack |
+|---|---|---|
+| [beypazarimadensuyu.com.tr](https://beypazarimadensuyu.com.tr) | Brand site for Beypazarı Natural Mineral Water, with a 3D bottle | Next.js, Three.js |
 
 #### How I work
 
