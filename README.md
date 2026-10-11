@@ -1,6 +1,6 @@
 ### Hi, I'm Melih.
 
-Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days. I build with AI coding agents every day, and I review every line they write.
+Co-founder of Comma Labs, in Türkiye. I build with AI agents, so an idea becomes a live app in days.
 
 **Have a project?** [Book a 15-minute call →](https://cal.com/comma-labs/15min)
 
@@ -51,8 +51,8 @@ Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days
 
 #### How I work
 
-- **AI agents, human review.** 3,500+ commits in 2026 with Claude Code, each one read and tested before it ships.
-- **TypeScript first, Swift second.** React Native and Expo on mobile, Next.js on the web.
-- **Security by default.** Supabase and Postgres with real row level security, tests in Jest and Vitest.
+- **AI-native.** Coding agents are my team, so one person ships what used to take a studio.
+- **Idea to App Store in days.** React Native and Expo on mobile, Next.js on the web, SwiftUI when it has to feel native.
+- **Built to last.** Supabase with real row level security, tests in Jest and Vitest.
 
 [Book a call](https://cal.com/comma-labs/15min) · [LinkedIn](https://www.linkedin.com/in/melihilkaydeniz) · [X](https://x.com/melihfyi) · [commalabs.co](https://commalabs.co)
