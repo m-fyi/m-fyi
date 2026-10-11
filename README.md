@@ -15,11 +15,15 @@ Software engineer in Türkiye. I ship iOS, React Native and Next.js apps in days
 
 | | What | Stack |
 |---|---|---|
-| [Huzur](https://huzur.app) · [App Store](https://apps.apple.com/app/id6759974970) · [Google Play](https://play.google.com/store/apps/details?id=com.labs.huzur) | Prayer times, Quran and duas, with an AI spiritual assistant | Expo, React Native, Supabase |
-| [biri.social](https://biri.social) | Anonymous compliment polls for university students | Expo, React Native, Supabase |
+| [Huzur](https://huzur.app) · [App Store](https://apps.apple.com/app/id6759974970) · [Google Play](https://play.google.com/store/apps/details?id=com.labs.huzur) | Quran verses and prayer times on your home screen, with an AI spiritual assistant | Expo, React Native, Supabase |
+| [QuitApp](https://apps.apple.com/app/id6799478753) | Quit smoking for good | Expo, React Native, Supabase |
+| [why?](https://apps.apple.com/app/id6802287404) | Stops you before you open a distracting app and asks why | SwiftUI, Screen Time API |
 | [aaaa.fyi](https://aaaa.fyi) | Directory of AI agent skills, MCP servers and plugins | Next.js, programmatic SEO |
 | [azantime.com](https://azantime.com) | Accurate prayer times worldwide | Next.js |
-| randevu.bio *(discontinued)* | One booking link for freelancers and small businesses, with SMS reminders | Expo, Supabase |
+
+**Coming soon:** [Biri](https://biri.social), anonymous compliment polls for university students · Dua Defteri, a daily prayer journal for iOS.
+
+**Earlier:** randevu.bio, one booking link for small businesses (closed).
 
 #### Client work
 
