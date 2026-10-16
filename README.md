@@ -10,17 +10,11 @@ I build apps with AI agents and ship them in days.
 - AI tutor and AI training work: software engineering, Turkish
 - Remote engineering roles: forward deployed, product engineering
 
-#### Open source
-
-- **[supabase-stranger](https://github.com/m-fyi/supabase-stranger)**: see your Supabase the way a stranger does. Finds tables anyone can read, users who can see each other's data, and leaked keys. Ships with a Claude Code skill.
-- **[whatsapp-booking-agent](https://github.com/m-fyi/whatsapp-booking-agent)**: a WhatsApp booking assistant powered by Claude. The AI shows menus; only the customer's tap books.
-
 #### Live
 
 - **[Huzur](https://huzur.app)**: Quran verses and prayer times on your home screen, with an AI spiritual assistant. [App Store](https://apps.apple.com/app/id6759974970) · [Google Play](https://play.google.com/store/apps/details?id=com.labs.huzur)
 - **QuitApp**: quit smoking for good. [App Store](https://apps.apple.com/app/id6799478753)
 - **why?**: stops you before you open a distracting app and asks why. [App Store](https://apps.apple.com/app/id6802287404)
-- **[aaaa.fyi](https://aaaa.fyi)**: a directory of AI agent skills, MCP servers and plugins.
 
 #### Coming soon
 
@@ -30,10 +24,12 @@ I build apps with AI agents and ship them in days.
 #### Earlier
 
 - **randevu.bio**: one booking link for freelancers and small businesses, with SMS reminders. Closed.
+- **[aaaa.fyi](https://aaaa.fyi)**: a directory of AI agent skills, MCP servers and plugins. Closed.
+
 
 #### How I work
 
-- Coding agents are my team, so one person ships what used to take a studio.
+- Coding agents are my team, so 2 people ships what used to take a studio.
 - Idea to App Store in days: React Native and Expo on mobile, Next.js on the web, SwiftUI when it has to feel native.
 - Supabase with real row level security, tests in Jest and Vitest.
 
