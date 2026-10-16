@@ -24,7 +24,7 @@ I build apps with AI agents and ship them in days.
 #### Earlier
 
 - **randevu.bio**: one booking link for freelancers and small businesses, with SMS reminders. Closed.
-- **[aaaa.fyi](https://aaaa.fyi)**: a directory of AI agent skills, MCP servers and plugins. Closed.
+- **aaaa.fyi**: a directory of AI agent skills, MCP servers and plugins. Closed.
 
 
 #### How I work
